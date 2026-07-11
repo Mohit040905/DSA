@@ -14,18 +14,13 @@
  * }
  */
 class Solution {
-    public boolean inorder(TreeNode node1, TreeNode node2){
-        if(node1==null && node2 == null)  {
-            return true;
-        }
-        if((node1==null && node2!=null)||(node1!=null&&node2==null)) return false;
-        if(node1.val!=node2.val) return false;
-        return inorder(node1.left, node2.left) && inorder(node1.right, node2.right);
-         
+    public boolean inorder(TreeNode a , TreeNode b){
+        if( a == null && b == null) return true;
+        if(a== null || b== null) return false;
+        if(a.val!=b.val) return false;
+        return inorder(a.left, b.left)&&inorder(a.right, b.right);
     }
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        
-        return inorder(p, q);
-
+        return inorder(p,q);
     }
 }
