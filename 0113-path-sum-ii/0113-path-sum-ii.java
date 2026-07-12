@@ -14,22 +14,20 @@
  * }
  */
 class Solution {
-    public List<List<Integer>> dfs(TreeNode root, int targetSum, List path, List answer){
-        
-        if(root==null) return answer;
+    public List<List<Integer>> dfs (TreeNode root, int target, List path, List ans){
+        if(root==null) return ans;
         path.add(root.val);
         if(root.left==null && root.right==null){
-            if(targetSum == root.val) answer.add(new ArrayList<>(path));
+            if(root.val == target) ans.add(new ArrayList<>(path));
         }
-        
-        dfs(root.left, targetSum-root.val, path, answer);
-        dfs(root.right, targetSum-root.val, path, answer);
+        dfs(root.left, target - root.val, path ,ans);
+        dfs(root.right, target-root.val, path, ans);
         path.remove(path.size()-1);
-        return answer;
+        return ans;
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<Integer> path = new ArrayList<>();
-        List<Integer> answer = new ArrayList<>();
-        return dfs(root, targetSum, path, answer);
+       List<Integer> path = new ArrayList<>();
+       List<Integer> ans = new ArrayList<>();
+       return dfs(root, targetSum, path, ans); 
     }
 }
