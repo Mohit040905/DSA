@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mohit040905/DSA/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit040905/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Mohit040905/DSA/tree/master/0257-binary-tree-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit040905/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
