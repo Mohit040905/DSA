@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mohit040905/DSA/tree/master/0009-palindrome-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit040905/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Mohit040905/DSA/tree/master/0257-binary-tree-paths) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mohit040905/DSA/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
