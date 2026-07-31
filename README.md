@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit040905/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/Mohit040905/DSA/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit040905/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Mohit040905/DSA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
