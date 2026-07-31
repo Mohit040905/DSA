@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mohit040905/DSA/tree/master/0009-palindrome-number) |
+| [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit040905/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit040905/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit040905/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,5 +134,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit040905/DSA/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
