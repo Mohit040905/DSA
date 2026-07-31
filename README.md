@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mohit040905/DSA/tree/master/0009-palindrome-number) |
+| [2396-strictly-palindromic-number](https://github.com/Mohit040905/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit040905/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Mohit040905/DSA/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Mohit040905/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
