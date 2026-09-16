@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit040905/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohit040905/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0877-stone-game](https://github.com/Mohit040905/DSA/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Mohit040905/DSA/tree/master/1046-last-stone-weight) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit040905/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit040905/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohit040905/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Mohit040905/DSA/tree/master/1046-last-stone-weight) |
 ## Minimax
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohit040905/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit040905/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 ## DP on Trees
 |  |
 | ------- |
@@ -238,8 +241,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit040905/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohit040905/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit040905/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
