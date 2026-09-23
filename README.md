@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohit040905/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mohit040905/DSA/tree/master/1046-last-stone-weight) |
+| [3731-find-missing-elements](https://github.com/Mohit040905/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit040905/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mohit040905/DSA/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit040905/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit040905/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3731-find-missing-elements](https://github.com/Mohit040905/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mohit040905/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohit040905/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [3731-find-missing-elements](https://github.com/Mohit040905/DSA/tree/master/3731-find-missing-elements) |
 ## Quickselect
 |  |
 | ------- |
