@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Mohit040905/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mohit040905/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit040905/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit040905/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mohit040905/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohit040905/DSA/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit040905/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit040905/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Mohit040905/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mohit040905/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit040905/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit040905/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohit040905/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit040905/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit040905/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit040905/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3731-find-missing-elements](https://github.com/Mohit040905/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohit040905/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohit040905/DSA/tree/master/0112-path-sum) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mohit040905/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit040905/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
 | ------- |
