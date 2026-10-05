@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit040905/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit040905/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Mohit040905/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohit040905/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit040905/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit040905/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Mohit040905/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohit040905/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Mohit040905/DSA/tree/master/0658-find-k-closest-elements) |
