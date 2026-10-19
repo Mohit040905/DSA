@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mohit040905/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit040905/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Mohit040905/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Mohit040905/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohit040905/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit040905/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mohit040905/DSA/tree/master/0136-single-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mohit040905/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Mohit040905/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Mohit040905/DSA/tree/master/0257-binary-tree-paths) |
 ## String
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mohit040905/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mohit040905/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Mohit040905/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
