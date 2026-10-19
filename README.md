@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mohit040905/DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Mohit040905/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohit040905/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohit040905/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -343,4 +345,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mohit040905/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
