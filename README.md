@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mohit040905/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mohit040905/DSA/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Mohit040905/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohit040905/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Mohit040905/DSA/tree/master/1025-divisor-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mohit040905/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohit040905/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mohit040905/DSA/tree/master/0342-power-of-four) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -353,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Mohit040905/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mohit040905/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mohit040905/DSA/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mohit040905/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
