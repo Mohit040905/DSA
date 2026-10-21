@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohit040905/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit040905/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Mohit040905/DSA/tree/master/0658-find-k-closest-elements) |
+| [0861-score-after-flipping-matrix](https://github.com/Mohit040905/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/Mohit040905/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Mohit040905/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohit040905/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -205,10 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mohit040905/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohit040905/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/Mohit040905/DSA/tree/master/0861-score-after-flipping-matrix) |
 ## Greedy
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohit040905/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0861-score-after-flipping-matrix](https://github.com/Mohit040905/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit040905/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mohit040905/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mohit040905/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mohit040905/DSA/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/Mohit040905/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/Mohit040905/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mohit040905/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
